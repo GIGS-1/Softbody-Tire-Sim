@@ -1,5 +1,8 @@
 # Softbody-Tire-Sim
+
 Softbody Tire Sim - Unity / Blender  / C#
+
+![alt text](https://github.com/[GIGS-1]/[Softbody-Tire-Sim]/blob/image.jpg?raw=true)
 
 ## Description
 
