@@ -12,3 +12,4 @@ Sphere Collider, te su sve točke povezane Spring Jointovima.
 
 Na taj način sve skupa funkcioniraju kao jedno tijelo i međusobno djeluju jedna na drugu.
 
+Također  se simulira ovjes automobila i trenje
