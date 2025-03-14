@@ -16,3 +16,7 @@ Sphere Collider, te su sve točke povezane Spring Jointovima.
 Na taj način sve skupa funkcioniraju kao jedno tijelo i međusobno djeluju jedna na drugu.
 
 Također  se simulira ovjes automobila i trenje
+
+## Blender model
+
+![Picture1](https://github.com/user-attachments/assets/0f8d489c-728e-4c26-83d1-8879c349ae76)
